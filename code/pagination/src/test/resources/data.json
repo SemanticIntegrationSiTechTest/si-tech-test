@@ -1,0 +1,17 @@
+[
+    {
+      "href" : "https://link/to/result",
+      "title" : "Document title",
+      "summary" : "Document summary"
+    },
+    {
+      "href" : "https://link/to/result2",
+      "title" : "Document 2 title",
+      "summary" : "Document 2 summary"
+    },
+  {
+    "href" : "https://link/to/result3",
+    "title" : "Document 3 title",
+    "summary" : "Document 3 summary"
+  }
+]
